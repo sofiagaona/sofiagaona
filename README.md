@@ -5,4 +5,5 @@
 [![Sofia github stats](https://github-readme-stats.vercel.app/api?username=sofiagaona&show_icons=true&theme=onedark)
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiagaona&show_icons=true&theme=onedark)
