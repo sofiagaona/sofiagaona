@@ -3,7 +3,7 @@
 <!--
 **sofiagaona/sofiagaona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src = ”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt = ”mi banner”>
+<img src = ”https://user-images.githubusercontent.com/63525754/139300955-18ce673f-9ac7-4614-ac0c-dca6f9298e21.png" alt = ”mi banner”>
 
 Here are some ideas to get you started:
 
