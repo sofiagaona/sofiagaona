@@ -8,6 +8,10 @@
 
 <p>Me apasiona el desarrollo de aplicaciones que facilitan y mejora la vida de los usuarios, disfruto mucho los temas relacionados con tecnología e innovación. A lo largo de mí carrera he desarrollado habilidades de autoaprendizaje y adaptabilidad, lo que me hace capaz de gestionarme eficazmente. Para mí el trabajo colaborativo es una oportunidad de crecimiento y aprendizaje.</p>
 
+<br>
+<br>
+<br>
+
 [![Sofia github stats](https://github-readme-stats.vercel.app/api?username=sofiagaona&show_icons=true&theme=onedark)
 <br>
 <br>
