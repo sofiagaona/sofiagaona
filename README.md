@@ -9,7 +9,7 @@
 <br>
 
 
-<h3> Herramientas y Tecnologias </h3>
+<h3> Herramientas y Tecnologías </h3>
 
 <br>
 
